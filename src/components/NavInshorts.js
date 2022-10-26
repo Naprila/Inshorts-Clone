@@ -1,6 +1,5 @@
 import React from 'react'
 import './NavInshorts.css'
-import MenuIcon from "@mui/icons-material/Menu";
 import HamburgerDrawer from './HamburgerDrawer';
 
 export const NavInshorts = ({setCategory}) => {
